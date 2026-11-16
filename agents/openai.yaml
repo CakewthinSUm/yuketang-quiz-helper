@@ -1,0 +1,7 @@
+interface:
+  display_name: "Yuketang Quiz Helper"
+  short_description: "Solve 雨课堂 PPT-image quizzes with paced browser clicks"
+  default_prompt: "Use $yuketang-quiz-helper to finish the Yuketang quiz open in the browser."
+
+policy:
+  allow_implicit_invocation: true

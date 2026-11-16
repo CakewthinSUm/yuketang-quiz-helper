@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# runtime artefacts produced while using the skill
+imgs/
+composed/
+urls.json
+cookies.json
+
+# editor / OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
